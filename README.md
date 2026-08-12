@@ -21,6 +21,7 @@ Bu araç **yalnızca eğitim ve araştırma amaçlıdır**.
 ```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
-git clone https://github.com/<KULLANICI_ADIN>/darktool
+git clone
+https://github.com/TcDarkLord/DarkTool.git
 cd darktool
-python lazymux.py
+python DarkTool.py
