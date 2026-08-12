@@ -21,7 +21,6 @@ Bu araç **yalnızca eğitim ve araştırma amaçlıdır**.
 ```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
-git clone
-https://github.com/TcDarkLord/DarkTool.git
+gitclonehttps://github.com/TcDarkLord/DarkTool.git
 cd DarkTool
 python DarkTool.py
