@@ -23,5 +23,5 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 git clone
 https://github.com/TcDarkLord/DarkTool.git
-cd darktool
+cd DarkTool
 python DarkTool.py
